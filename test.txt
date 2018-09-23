@@ -1,0 +1,1 @@
+try to delete a file in a dictory of git
